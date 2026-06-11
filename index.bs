@@ -3404,11 +3404,11 @@ Maintenance Without a Group</h4>
 	at the same [[#maturity-stages|maturity stage]],
 	integrating as needed:
 	<ol>
-		<li><a href="#correction-classes">class 1 changes</a>;
+		<li><a href="#class-1">class 1 changes</a>;
 		<li>inline [=errata=];
 		<li>[=candidate corrections=],
 			which <em class=rfc2119>must</em> be marked as <dfn>Team correction</dfn>;
-		<li><a href="#correction-classes">class 2 changes</a> other than inline [=errata=] and [=Team corrections=].
+		<li><a href="#class-2">class 2 changes</a> other than inline [=errata=] and [=Team corrections=].
 	</ol>
 
 	To avoid any potential doubt or disagreement
