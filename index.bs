@@ -898,9 +898,9 @@ Role of the Advisory Board</h5>
 	and publishing new versions.
 	</ul>
 
-    Members of the [=AB=] also take part in [=W3C Councils=]
-    to hear and adjudicate [=Formal Objections=]
-    and [=Submission Appeals=].
+	Members of the [=AB=] also take part in [=W3C Councils=]
+	to hear and adjudicate [=Formal Objections=]
+	and [=Submission Appeals=].
 	
 	Details about the Advisory Board
 	(e.g., the list of Advisory Board participants,
