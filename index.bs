@@ -5485,9 +5485,11 @@ Appendix B: Acknowledgments</h2>
 
 	Brent Zundel (Yubico),
 	Chris Needham (BBC),
+	Daniel Montalvo (W3C),
 	Elika J. Etemad <abbr title="also known as">aka</abbr> fantasai,
 	Jeffrey Yasskin (Google),
 	Nigel Megitt (BBC),
+	Philippe Le Hegaret (W3C),
 	Tantek Çelik (Mozilla),
 	Ted Thibodeau Jr (OpenLink Software),
 	Theresa O'Connor (Apple).
@@ -5659,7 +5661,17 @@ Changes since the <a href="https://www.w3.org/policies/process/20231103/">18 Aug
 			(See <a href="https://github.com/w3c/process/pull/1038">Pull Request 1038</a>)
 
 		<li>Give the Advisory Board a mission statement.
-			(See <a href="https://github.com/w3c/process/pull/1021">Pull Requestion 2021</a>)
+			(See <a href="https://github.com/w3c/process/pull/1021">Pull Request 1021</a>)
+
+		<li>If Member organizations have a Consortium Member Representative,
+			that person is that company's [=Advisory Committee Representative=].
+			Organizations that wants different individuals to exercise different subsets
+			of the corresponding responsibilities
+			can use the [=alternate AC representative=] mechanism.
+			(See <a href="https://github.com/w3c/process/pull/937">Pull Request 937</a>)
+
+		<li>Harmonize the affiliation constraints for the AB and TAG.
+			(See <a href="https://github.com/w3c/process/issues/817">Issue 817</a>)
 	</ul>
 
 <h3 id=changes-previous class=no-num oldids="changes-2023-1, changes-2023, changes-2021, changes-2020, changes-2019, changes-2018, changes-2017, changes-2025, changes-2025-tr, streamlined-update, changes-2025-charter, changes-2025-decisions, changes-other">
