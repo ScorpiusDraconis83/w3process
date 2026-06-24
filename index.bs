@@ -1118,23 +1118,16 @@ Elected Groups Participation Constraints</h5>
 
 	<ul>
 		<li>
-			Two participants with the same [=primary affiliation=] per <a href="#AB-TAG-elections"></a>
-			must not both occupy elected seats on the TAG
+			Two (or more) participants with the same [=primary affiliation=] per <a href="#AB-TAG-elections"></a>
+			must not occupy elected seats on the same [=Elected Group=],
 			except when this is caused by a change of affiliation of an existing participant.
-			At the completion of the next regularly scheduled election for the TAG,
+			At the completion of the next regularly scheduled election for that group,
 			the organization <em class="rfc2119">must</em> have returned to having at most one seat.
-
-		<li>
-			Two participants with the same [=primary affiliation=] per <a href="#AB-TAG-elections"></a>
-			must not both occupy elected seats on the AB.
-			If, for whatever reason, these constraints are not satisfied
-			(e.g., because an [=AB=] participant changes jobs),
-			one participant <em class="rfc2119">must</em> cease [=AB=] participation
-			until the situation has been resolved.
-			If after <span class="time-interval">30 days</span> the situation has not been resolved,
-			the Chair will apply
+			Otherwise, the [=Team=] will apply
 			the <a href="#random">verifiable random selection procedure</a> described below
-			to choose one person for continued participation and declare the other seat(s) vacant.
+			to choose one person for continued participation and declare the other seat(s) vacant
+			as of that election.
+
 		<li>
 			An individual <em class="rfc2119">must not</em> participate on both the TAG and the AB.
 	</ul>
