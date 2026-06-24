@@ -768,20 +768,30 @@ Participation in the Advisory Committee</h4>
 	(refer to the [=Member-only=] list
 	of <a href="https://www.w3.org/Member/ACList">current Advisory Committee representatives</a>. [[CURRENT-AC]])
 
-	When an organization joins W3C
-	(see “<a href="https://www.w3.org/membership/join/">How to Join W3C</a>” [[JOIN]]),
-	it <em class="rfc2119">must</em> name its Advisory Committee representative as part of their Membership Agreement.
+	As defined in the W3C Bylaws,
+	each “<i>Consortium Member</i>”
+	has one “<i>Consortium Member Representative</i>” [[!BYLAWS]].
+	For purposes of the W3C Process,
+	this person also serves as the organization's [=Advisory Committee Representative=].
+	When a [=Member=] does not qualify as a “<i>Consortium Member</i>”,
+	it <em class=rfc2119>must</em> name its [=Advisory Committee representative=]
+	upon joining W3C.
 	The <a href="https://www.w3.org/Member/Intro">New Member Orientation</a> [[INTRO]]
 	explains how to subscribe or unsubscribe to Advisory Committee mailing lists,
 	provides information about <a href="#ACMeetings">Advisory Committee Meetings</a>,
-	explains how to name a new [=Advisory Committee representative=],
+	explains how to name a new representative,
 	and more.
 	[=Advisory Committee representatives=] <em class="rfc2119">must</em> follow the <a href="#coi">conflict of interest policy</a>
 	by disclosing information according to the mechanisms described in the New Member Orientation.
 
-	The AC representative may delegate their rights and responsibilities
-	to an <dfn export lt="alternate AC representative | alternate Advisory Committee representative | alt AC rep">alternate</dfn>
-	(except the ability to designate an alternate).
+	The AC representative may delegate their rights and responsibilities under this Process
+	to an <dfn export lt="alternate AC representative | alternate Advisory Committee representative | alt AC rep">alternate</dfn>,
+	except the ability to designate an alternate.
+
+	Note: The above does not establish an ability to delegate rights and responsibilities
+	pertaining to the role of “<i>Consortium Member Representative</i>”
+	as defined by the W3C Bylaws.
+	Such rights and responsibilities are out of scope for the Process.
 
 <h4 id="ACCommunication">
 Advisory Committee Mailing Lists</h4>
@@ -898,9 +908,9 @@ Role of the Advisory Board</h5>
 	and publishing new versions.
 	</ul>
 
-    Members of the [=AB=] also take part in [=W3C Councils=]
-    to hear and adjudicate [=Formal Objections=]
-    and [=Submission Appeals=].
+	Members of the [=AB=] also take part in [=W3C Councils=]
+	to hear and adjudicate [=Formal Objections=]
+	and [=Submission Appeals=].
 	
 	Details about the Advisory Board
 	(e.g., the list of Advisory Board participants,
@@ -1118,23 +1128,16 @@ Elected Groups Participation Constraints</h5>
 
 	<ul>
 		<li>
-			Two participants with the same [=primary affiliation=] per <a href="#AB-TAG-elections"></a>
-			must not both occupy elected seats on the TAG
+			Two (or more) participants with the same [=primary affiliation=] per <a href="#AB-TAG-elections"></a>
+			must not occupy elected seats on the same [=Elected Group=],
 			except when this is caused by a change of affiliation of an existing participant.
-			At the completion of the next regularly scheduled election for the TAG,
+			At the completion of the next regularly scheduled election for that group,
 			the organization <em class="rfc2119">must</em> have returned to having at most one seat.
-
-		<li>
-			Two participants with the same [=primary affiliation=] per <a href="#AB-TAG-elections"></a>
-			must not both occupy elected seats on the AB.
-			If, for whatever reason, these constraints are not satisfied
-			(e.g., because an [=AB=] participant changes jobs),
-			one participant <em class="rfc2119">must</em> cease [=AB=] participation
-			until the situation has been resolved.
-			If after <span class="time-interval">30 days</span> the situation has not been resolved,
-			the Chair will apply
+			Otherwise, the [=Team=] will apply
 			the <a href="#random">verifiable random selection procedure</a> described below
-			to choose one person for continued participation and declare the other seat(s) vacant.
+			to choose one person for continued participation and declare the other seat(s) vacant
+			as of that election.
+
 		<li>
 			An individual <em class="rfc2119">must not</em> participate on both the TAG and the AB.
 	</ul>
@@ -3404,11 +3407,11 @@ Maintenance Without a Group</h4>
 	at the same [[#maturity-stages|maturity stage]],
 	integrating as needed:
 	<ol>
-		<li><a href="#correction-classes">class 1 changes</a>;
+		<li><a href="#class-1">class 1 changes</a>;
 		<li>inline [=errata=];
 		<li>[=candidate corrections=],
 			which <em class=rfc2119>must</em> be marked as <dfn>Team correction</dfn>;
-		<li><a href="#correction-classes">class 2 changes</a> other than inline [=errata=] and [=Team corrections=].
+		<li><a href="#class-2">class 2 changes</a> other than inline [=errata=] and [=Team corrections=].
 	</ol>
 
 	To avoid any potential doubt or disagreement
@@ -3876,7 +3879,7 @@ Updating Mature Publications on the Recommendation Track</h4>
 			and <em class="rfc2119">should</em> document the details of such changes.
 
 		<li>
-			<em class="rfc2119">should</em> publicly document if [=editorial changes=] changes have been made,
+			<em class="rfc2119">should</em> publicly document if [=editorial changes=] have been made,
 			and <em class="rfc2119">may</em> document the details of such changes.
 
 		<li>
