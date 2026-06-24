@@ -785,7 +785,7 @@ Participation in the Advisory Committee</h4>
 	by disclosing information according to the mechanisms described in the New Member Orientation.
 
 	The AC representative may share their rights and responsibilities under this Process
-with an <dfn export lt="alternate AC representative | alternate Advisory Committee representative | alt AC rep">alternate</dfn>,
+	with an <dfn export lt="alternate AC representative | alternate Advisory Committee representative | alt AC rep">alternate</dfn>,
 	except the ability to designate an alternate.
 
 	Note: The above does not establish an ability to delegate rights and responsibilities
